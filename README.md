@@ -2,7 +2,7 @@
 
 ##### 1.导入代码，使用composer
 ```php
-composer required hasyan/wechat
+composer require hasyan/wechat
 ```
 
 ##### 2.开始使用
